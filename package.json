@@ -1,0 +1,27 @@
+{
+  "name": "emaily",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "engines": {
+    "node": "10.16.1",
+    "npm": "6.9.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HuangBetty/emaily.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HuangBetty/emaily/issues"
+  },
+  "homepage": "https://github.com/HuangBetty/emaily#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
